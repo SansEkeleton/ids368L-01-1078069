@@ -5,9 +5,9 @@
 # Requerimientos
 1. El SSN debe de contener 9 digitos.
 2. El SSN debe estar dividido en 3 partes.
-2.1. la primera parte debe contener 3 digitos, no puede contener 000 y ni estar entre 889 y 1000.
-2.2. la segunda parte debe contener 2 digitos, deberia de estar entre 1 y 99.
-2.3. la tercera parte debe contener 4 digitos, deberia de estar entre 0001 y 9999.
+21. la primera parte debe contener 3 digitos, no puede contener 000 y ni estar entre 889 y 1000.
+22. la segunda parte debe contener 2 digitos, deberia de estar entre 1 y 99.
+23. la tercera parte debe contener 4 digitos, deberia de estar entre 0001 y 9999.
 
 # Escenarios de pruebas
 
