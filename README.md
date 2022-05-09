@@ -17,8 +17,8 @@
 
 # Descarga
 
-git clone 
-cd "\
-dotnet run "  "
-dotnet run "  "
-Resultado debe mostrar "Valido" o "Invalido"
+1. git clone. 
+2. cd "\".
+3. dotnet run "  ".
+4. dotnet run "  ".
+5. Resultado debe mostrar "Valido" o "Invalido".
