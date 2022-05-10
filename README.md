@@ -17,9 +17,8 @@
 
 # Download
 
-1. git clone. 
+1. git clone https://github.com/SansEkeleton/ids368L-01-1078069.git. 
 2. cd "\".
-3. dotnet run " ".
-4. dotnet run " ".
-5. Result should show "Valid" or "Invalid".
+3. dotnet run "000-125-8588".
+4. Result should show "Valid" or "Invalid".
 
