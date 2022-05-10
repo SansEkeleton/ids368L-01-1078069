@@ -2,23 +2,24 @@
 
 # SSN (Social Security Number) Validator
 
-# Requerimientos
-1. El SSN debe de contener 9 digitos.
-2. El SSN debe estar dividido en 3 partes.
-3. la primera parte debe contener 3 digitos, no puede contener 000 y ni estar entre 889 y 1000.
-4. la segunda parte debe contener 2 digitos, deberia de estar entre 1 y 99.
-5. la tercera parte debe contener 4 digitos, deberia de estar entre 0001 y 9999.
+# Requirements
+1. The SSN must contain 9 digits.
+2. The SSN must be divided into 3 parts.
+3. the first part must contain 3 digits, it cannot contain 000 and cannot be between 889 and 1000.
+4. the second part must contain 2 digits, it should be between 1 and 99.
+5. the third part must contain 4 digits, it should be between 0001 and 9999.
 
-# Escenarios de pruebas
+# Test scenarios
 
-1. El programa se ejecuta a traves de una terminal.
-2. El SSN "980-12-0000" es Invalido
+1. The program is executed through a terminal.
+2. The SSN "980-12-0000" is Invalid.
 
 
-# Descarga
+# Download
 
 1. git clone. 
 2. cd "\".
-3. dotnet run "  ".
-4. dotnet run "  ".
-5. Resultado debe mostrar "Valido" o "Invalido".
+3. dotnet run " ".
+4. dotnet run " ".
+5. Result should show "Valid" or "Invalid".
+
