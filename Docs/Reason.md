@@ -9,7 +9,7 @@ print_string("Hello world")
 ###### Standard output
 
 \n let printStrings = () => {
-\nprint_endline("Hello");
-\nprint_endline("Mancos")
-\n};
-\nprintStrings();.
+\n print_endline("Hello");
+\n print_endline("Mancos")
+\n };
+\n printStrings();.
