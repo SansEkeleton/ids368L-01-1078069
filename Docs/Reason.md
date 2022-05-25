@@ -8,8 +8,8 @@ print_string("Hello world")
 
 ###### Standard output
 
-let printStrings = () => {
-print_endline("Hello");
-print_endline("Mancos")
-};
-printStrings();.
+\n let printStrings = () => {
+\nprint_endline("Hello");
+\nprint_endline("Mancos")
+\n};
+\nprintStrings();.
