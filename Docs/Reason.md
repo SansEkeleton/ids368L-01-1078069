@@ -13,3 +13,21 @@ print_string("Hello world")
  print_endline("Mancos")  
  };  
  printStrings();  
+ 
+ ###### Variables de Ambiente.
+ 
+ let x: int = 5  
+let y: int = 6  
+
+print_int(x + y);  
+
+###### File/IO
+
+let in_channel = open_in "lines.txt" in  
+try  
+  while true do  
+    let line = input_line in_channel in  
+    (* do something with line *)  
+  done  
+with End_of_file ->  
+  close_in in_channel  
