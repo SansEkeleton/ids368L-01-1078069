@@ -1,8 +1,8 @@
 
 # Realizar "Hello World" con el lenguaje asignado. 
-
+```Reason
 print_string("Hello world")
-
+```
 
 # Demostrar como se interactúa con el Environment con el lenguaje asignado. 
 
