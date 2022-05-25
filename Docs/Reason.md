@@ -8,14 +8,16 @@ print_string("Hello world")
 
 ###### Standard output
 
-´´´
+``` Reason
+
  let printStrings = () => {  
  print_endline("Hello");  
  print_endline("Mancos")  
  };  
  printStrings(); 
  
- ´´´
+ ```
+ 
  ###### Variables de Ambiente.
  
  let x: int = 5  
