@@ -20,13 +20,14 @@ print_string("Hello world")
  
  ###### Variables de Ambiente.
  
+ ```Reason
  let x: int = 5  
 let y: int = 6  
 
 print_int(x + y);  
-
+```
 ###### File/IO
-
+```Reason
 let in_channel = open_in "lines.txt" in  
 try  
   while true do  
@@ -35,3 +36,4 @@ try
   done  
 with End_of_file ->  
   close_in in_channel  
+```
